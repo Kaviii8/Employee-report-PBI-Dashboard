@@ -4,7 +4,7 @@
 
 This Power BI dashboard was developed as part of an HR analytics initiative at **TechMENA**, a rapidly growing tech company with offices across the Middle East. The goal of this project is to provide a comprehensive view of employee distribution and performance across various categories to support data-driven HR decisions.
 
-## 👤 Your Role
+## 👤 My Role
 
 **Data Analyst**  
 As a data analyst, my responsibility was to analyze employee data and design a dashboard that highlights key HR metrics and trends.
